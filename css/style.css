@@ -8,10 +8,10 @@
   --font-primary: 'Poppins', sans-serif;
   --font-secondary: 'Arvo', serif;
   --font-code: 'Roboto', monospace;
-  --bg-color: #00163f;
+  --bg-color: #4e08a2;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
-  --accent-color: #be7efe;
+  --accent-color: #0bc414;
   --header-shadow: #000 0px 0px 5px;
 }
 
@@ -79,11 +79,7 @@ header .container {
   box-shadow: none;
 }
 
-.wallet-btn {
-  border-radius: 5rem;
-  margin-left: 2rem;
-  border-color: transparent;
-}
+
 
 .hero-btn {
   border-radius: 4px;
